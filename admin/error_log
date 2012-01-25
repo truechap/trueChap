@@ -1,0 +1,9 @@
+[09-Dec-2011 09:56:17] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/truechap/public_html/site/admin/index.php on line 13
+[09-Dec-2011 09:56:34] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/truechap/public_html/site/admin/index.php on line 13
+[09-Dec-2011 09:56:35] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/truechap/public_html/site/admin/index.php on line 13
+[09-Dec-2011 09:56:45] PHP Warning:  include_once(functions.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/truechap/public_html/site/admin/index.php on line 3
+[09-Dec-2011 09:56:45] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/truechap/public_html/site/admin/index.php on line 3
+[09-Dec-2011 09:56:45] PHP Warning:  include_once(db.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/truechap/public_html/site/admin/index.php on line 4
+[09-Dec-2011 09:56:45] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/truechap/public_html/site/admin/index.php on line 4
+[09-Dec-2011 09:56:45] PHP Fatal error:  Call to undefined function  dbconnect() in /home/truechap/public_html/site/admin/index.php on line 5
+[09-Dec-2011 09:56:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/truechap/public_html/site/admin/index.php on line 15

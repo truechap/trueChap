@@ -1,0 +1,12 @@
+
+
+		trueCHAP Dev Change Log:
+		
+		If you make a change to any file, please leave a note in here saying what was 
+		changed so we can keep a log of the changes, and know who to beat when part
+		of the site dies ;)
+		
+		INITIALS	DATE	 		FILE					CHANGE
+		TL			20/01/12		changelog.txt			Created the file
+		TL			20/01/12		functions.php			Fixed the format_for_twitter function and added 
+															comments and function descriptions

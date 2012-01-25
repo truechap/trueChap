@@ -1,0 +1,29 @@
+[07-Dec-2011 12:59:41] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/truechap/public_html/site/functions.php on line 3
+[07-Dec-2011 12:59:41] PHP Parse error:  syntax error, unexpected '"' in /home/truechap/public_html/site/functions.php on line 3
+[07-Dec-2011 12:59:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truechap'@'localhost' (using password: NO) in /home/truechap/public_html/site/load_initial_posts.php on line 7
+[07-Dec-2011 12:59:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truechap/public_html/site/load_initial_posts.php on line 7
+[07-Dec-2011 12:59:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/truechap/public_html/site/load_initial_posts.php on line 9
+[07-Dec-2011 13:07:33] PHP Fatal error:  Call to undefined function  substring() in /home/truechap/public_html/site/functions.php on line 5
+[07-Dec-2011 14:09:13] PHP Parse error:  syntax error, unexpected ';' in /home/truechap/public_html/site/functions.php on line 123
+[07-Dec-2011 14:09:31] PHP Fatal error:  Function name must be a string in /home/truechap/public_html/site/functions.php on line 101
+[07-Dec-2011 14:17:31] PHP Parse error:  syntax error, unexpected '*' in /home/truechap/public_html/site/functions.php on line 63
+[07-Dec-2011 14:17:33] PHP Parse error:  syntax error, unexpected '*' in /home/truechap/public_html/site/functions.php on line 63
+[07-Dec-2011 14:24:07] PHP Parse error:  syntax error, unexpected T_RETURN in /home/truechap/public_html/site/functions.php on line 67
+[07-Dec-2011 14:29:05] PHP Parse error:  syntax error, unexpected ';' in /home/truechap/public_html/site/functions.php on line 64
+[07-Dec-2011 14:29:21] PHP Parse error:  syntax error, unexpected ';' in /home/truechap/public_html/site/functions.php on line 64
+[07-Dec-2011 14:31:03] PHP Parse error:  syntax error, unexpected $end in /home/truechap/public_html/site/functions.php on line 116
+[07-Dec-2011 14:33:40] PHP Parse error:  syntax error, unexpected $end in /home/truechap/public_html/site/functions.php on line 116
+[07-Dec-2011 14:37:10] PHP Fatal error:  Call to undefined function  load_initial_posts() in /home/truechap/public_html/site/index.php on line 120
+[07-Dec-2011 14:39:45] PHP Parse error:  syntax error, unexpected $end in /home/truechap/public_html/site/functions.php on line 120
+[07-Dec-2011 14:46:49] PHP Fatal error:  Call to undefined function  load_initial_posts() in /home/truechap/public_html/site/index.php on line 120
+[08-Dec-2011 05:29:17] PHP Parse error:  syntax error, unexpected '{' in /home/truechap/public_html/site/functions.php on line 122
+[08-Dec-2011 06:09:47] PHP Fatal error:  Call to undefined function  load_initial_posts() in /home/truechap/public_html/site/index.php on line 119
+[08-Dec-2011 06:09:54] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/truechap/public_html/site/functions.php on line 150
+[08-Dec-2011 06:10:30] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/truechap/public_html/site/functions.php on line 150
+[08-Dec-2011 06:10:32] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/truechap/public_html/site/functions.php on line 150
+[08-Dec-2011 06:10:34] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/truechap/public_html/site/functions.php on line 150
+[08-Dec-2011 06:11:02] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/truechap/public_html/site/functions.php on line 150
+[08-Dec-2011 06:11:30] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/truechap/public_html/site/functions.php on line 150
+[08-Dec-2011 06:12:20] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/truechap/public_html/site/functions.php on line 150
+[08-Dec-2011 06:13:16] PHP Fatal error:  Call to undefined function  load_initial_posts() in /home/truechap/public_html/site/index.php on line 119
+[20-Jan-2012 12:00:15] PHP Fatal error:  Cannot redeclare wrap_hashtags() (previously declared in /home/truechap/public_html/site/functions.php:87) in /home/truechap/public_html/site/functions.php on line 215
