@@ -2,7 +2,6 @@
 
 	include 'db.php';
 	dbConnect();
-	mysql_select_db("truechap_site");
 	
 	$post = $_POST['post'];
 	
