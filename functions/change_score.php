@@ -2,7 +2,6 @@
 
 	include_once 'db.php';
 	dbConnect();
-	mysql_select_db("truechap_site");
 
 	$id = $_POST['id'];
 	$type = $_POST['type'];

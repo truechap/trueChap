@@ -21,10 +21,8 @@
 	<? 
 		
 		// Prepare site
-		include_once 'functions.php'; 
-		include_once 'db.php';
+		include_once 'functions/includes.php'; 
 		dbConnect();
-		mysql_select_db("truechap_site");
 	
 	?>
 	<!-- Place this render call where appropriate -->

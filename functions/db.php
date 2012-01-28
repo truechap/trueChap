@@ -3,8 +3,8 @@
 	// db.php
 	
 	$dbhost = "localhost";
-	$dbuser = "truechap";
-	$dbpass = "DT@3DT@3";
+	$dbuser = "root";
+	$dbpass = "root";
 	
 	function dbConnect($db="") {
 	
@@ -17,7 +17,9 @@
 		if ($db="" and !mysql_select_db($db))
 		
 			die("The site database is unavailable");
-			
+		
+
+		mysql_select_db('truechap');
 		return $dbcnx;
 		
 	}

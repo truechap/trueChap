@@ -7,7 +7,7 @@
 	* default timezone of the MySQL server) and returns it in the
 	* correct format for displaying on each post
 	*
-	* @author Tom Lynch
+	* @author Tom Lynch, Sam Marland
 	* 
 	* @param string $date		 The date to format
 	* @return string $result	 The formatted timestamp
