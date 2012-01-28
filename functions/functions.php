@@ -278,6 +278,8 @@
 		// Written by Lynch, gonna comment it soon
 		
 		//SAM: changed the limit to 25. 100 was annoying me.
+		//FIXME Database queries like this shouldn't be here really. They should have their own file.
+		
 		$sql = "SELECT id, submittedby, content, moderated, datetime, score FROM message ORDER BY ID DESC LIMIT 0, 25";
 		
 		$result = mysql_query($sql);

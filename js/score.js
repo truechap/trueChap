@@ -15,7 +15,8 @@ $(document).ready(function() {
 					 score: score
 					};
 		
-		var url = "http://www.truechap.com/site/change_score.php";
+		//We shouldn't be using absolute URLs here we should
+		var url = "../functions/change_score.php";
 		
 		changeScore(data, url);
 	
@@ -36,7 +37,7 @@ $(document).ready(function() {
 					 score: score
 					};
 		
-		var url = "http://www.truechap.com/site/change_score.php";
+		var url = "../functions/change_score.php";
 		
 		changeScore(data, url);
 	
